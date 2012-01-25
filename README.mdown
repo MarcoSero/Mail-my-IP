@@ -1,0 +1,13 @@
+# Mail my IP
+###A program that notifies the change of the public IP via email
+
+##How to Use
+First, change the global variables to set your connection parameters:<br> HOST, FROM, TO, USER, PASS, REFRESH_MINUTES, SSL. <br><br>
+Then compile:
+
+		$ make
+		
+and run it:
+
+		$ make run
+

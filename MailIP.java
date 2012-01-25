@@ -12,9 +12,9 @@ import java.net.*;
 
 public class MailIP {
 	
-	final static String HOST = "smtp.hostname.com"; 	// SMTP ADDRESS
-	final static String FROM = "mail@hostname.com"; 	// MAIL SENDER
-	final static String TO = "mailto@gmail.com"; 		// MAIL RECEIVER
+	final static String HOST = "smtp.hostname.com";		// SMTP ADDRESS
+	final static String FROM = "mail@hostname.com";		// MAIL SENDER
+	final static String TO = "mailto@gmail.com";		// MAIL RECEIVER
 	final static String USER = "username"; 				// USERNAME
 	final static String PASS = "password"; 				// PASSWORD
 	final static int REFRESH_MINUTES = 60;				// REFRESH EVERY _ MINUTES
